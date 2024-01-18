@@ -1,0 +1,78 @@
+run:
+Enter Customer Name:  Justyce Countryman
+
+Enter Customer's Street Address:  777 Rainbow Road
+
+Enter Customer's City, State, and Zip Code:  Watertown, New York, 13601
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  0
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  -9
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  9
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  1
+
+Enter Valid Item Number (0-6):  -9
+
+Enter Valid Item Number (0-6):  9
+
+Enter Valid Item Number (0-6):  0
+
+Enter Item Quantity for Kit Kat Bar:  -9
+
+Enter Item Quantity for Kit Kat Bar:  11
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  1
+
+Enter Valid Item Number (0-6):  1
+
+Enter Item Quantity for Skittles:  5
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  1
+
+Enter Valid Item Number (0-6):  2
+
+Enter Item Quantity for Twix:  4
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  2
+
+Enter Valid Item Number (0-6):  2
+
+Enter Item Quantity for Twix:  1
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  1
+
+Enter Valid Item Number (0-6):  4
+
+Enter Item Quantity for 3 Musketeers:  0
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  2
+
+Enter Valid Item Number (0-6):  4
+
+Enter Item Quantity for 3 Musketeers:  0
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  1
+
+Enter Valid Item Number (0-6):  5
+
+Enter Item Quantity for Jelly Belly Jelly Beans:  19
+
+What would you like to do: Add Product Quantities [1], Remove Product Quantities [2] or Display Order Summary [3]?  3
+
+Customer Name: Justyce Countryman
+Customer's Street Address: 777 Rainbow Road
+Customer's City, State, and Zip Code: Watertown, New York, 13601
+
+Product Names:                         Product Prices:                     Product Quantities:                         Product Totals: 
+Kit Kat Bar                            1.99                                11                                          21.89
+Skittles                               3.12                                5                                           15.60
+Twix                                   800.00                              3                                           2400.00
+Jelly Belly Jelly Beans                19.99                               19                                          379.81
+
+Subtotal:                              2817.30
+Total Tax (8.0%):                      225.38
+Total Cost:                            3042.68
+BUILD SUCCESSFUL (total time: 1 minute 22 seconds)
+
