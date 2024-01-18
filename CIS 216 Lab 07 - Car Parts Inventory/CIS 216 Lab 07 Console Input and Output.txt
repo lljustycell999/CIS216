@@ -1,0 +1,38 @@
+run:
+What would you like to do: Look-up a part [1], Add a new part to the inventory [2], Print the entire inventory [3], or Quit [4]?  1
+
+Enter part ID number:  12345678
+
+Description of Part Found            Cost          Price        Weight          Location                        Quantity
+Tesla Speedometer                    150.00        300.00       25.25           Tesla Section                   19
+
+What would you like to do: Look-up a part [1], Add a new part to the inventory [2], Print the entire inventory [3], or Quit [4]?  3
+
+Part ID Number    Part Description                     Cost          Price          Weight          Location                        Quantity
+14689575          Car Window                           175.00        245.00         5.40            Car Section                     3
+23890011          Car Door                             300.00        499.99         14.80           Car Section                     4
+12345678          Tesla Speedometer                    150.00        300.00         25.25           Tesla Section                   19
+19191919          Car Wheels                           25.10         47.60          128.60          Car Section                     6
+
+What would you like to do: Look-up a part [1], Add a new part to the inventory [2], Print the entire inventory [3], or Quit [4]?  2
+
+Enter Part ID Number:  77777777
+Enter Part Description:  Tesla Charger
+Enter Part Cost:  18.00
+Enter Part Price:  28.99
+Enter Part Weight:  3.4
+Enter Part Location:  Tesla Section
+Enter Part Quantity:  8
+
+What would you like to do: Look-up a part [1], Add a new part to the inventory [2], Print the entire inventory [3], or Quit [4]?  3
+
+Part ID Number    Part Description                     Cost          Price          Weight          Location                        Quantity
+14689575          Car Window                           175.00        245.00         5.40            Car Section                     3
+23890011          Car Door                             300.00        499.99         14.80           Car Section                     4
+12345678          Tesla Speedometer                    150.00        300.00         25.25           Tesla Section                   19
+19191919          Car Wheels                           25.10         47.60          128.60          Car Section                     6
+77777777          Tesla Charger                        18.00         28.99          3.40            Tesla Section                   8
+
+What would you like to do: Look-up a part [1], Add a new part to the inventory [2], Print the entire inventory [3], or Quit [4]?  4
+
+BUILD SUCCESSFUL (total time: 2 minutes 52 seconds)
