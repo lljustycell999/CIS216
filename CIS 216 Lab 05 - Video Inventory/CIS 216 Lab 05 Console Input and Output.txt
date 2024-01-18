@@ -1,0 +1,107 @@
+run:
+What would you like to do: Add a video [1], Search for a video [2], Display all videos [3], Display videos of a specific genre [4], or Display videos of a specific rating [5]?  1
+
+Enter movie name:  Jellyfish
+Enter movie genre:  Documentary
+Enter movie rating:  PG
+Enter movie format:  DVD
+BUILD SUCCESSFUL (total time: 48 seconds)
+
+run:
+What would you like to do: Add a video [1], Search for a video [2], Display all videos [3], Display videos of a specific genre [4], or Display videos of a specific rating [5]?  2
+
+Enter the name of the movie you are looking for:  Jellyfish
+
+Movie Found:  Jellyfish
+Movie Genre:  Documentary
+Movie Rating:  PG
+Movie Format:  DVD
+BUILD SUCCESSFUL (total time: 20 seconds)
+
+run:
+What would you like to do: Add a video [1], Search for a video [2], Display all videos [3], Display videos of a specific genre [4], or Display videos of a specific rating [5]?  3
+
+Movie Name                                                                     Movie Genre        Movie Rating        Movie Format
+The Godfather                                                                  Drama              R                   DVD                
+The Shawshank Redemption                                                       Drama              R                   VHS                
+Schindler's List                                                               Drama              R                   Blu-Ray            
+Raging Bull                                                                    Drama              R                   Blu-Ray            
+Casablanca                                                                     Romance            PG                  Blu-ray            
+Citizen Kane                                                                   Drama              PG                  DVD                
+Gone with the Wind                                                             Romance            NR                  DVD                
+The Wizard of Oz                                                               Science Fiction    PG                  DVD                
+One Flew Over the Cuckoo's Nest                                                Drama              R                   VHS                
+Lawrence of Arabia                                                             Drama              NR                  VHS                
+Vertigo                                                                        Horror             PG                  VHS                
+Psycho                                                                         Horror             R                   Blu-ray            
+The Godfather: Part II                                                         Drama              R                   Blu-ray            
+On the Waterfront                                                              Drama              NR                  Digital            
+Sunset Blvd.                                                                   Drama              NR                  Digital            
+Forrest Gump                                                                   Romance            PG-13               DVD                
+The Sound of Music                                                             Drama              G                   VHS                
+12 Angry Men                                                                   Drama              NR                  VHS                
+West Side Story                                                                Romance            NR                  VHS                
+Star Wars: Episode IV - A New Hope                                             Science Fiction    PG                  DVD                
+2001: A Space Odyssey                                                          Science Fiction    G                   VHS                
+E.T. the Extra-Terrestrial                                                     Science Fiction    PG                  DVD                
+The Silence of the Lambs                                                       Horror             R                   Blu-Ray            
+Chinatown                                                                      Drama              R                   Blu-Ray            
+The Bridge on the River Kwai                                                   Drama              PG                  Blu-Ray            
+Singin' in the Rain                                                            Romance            G                   Blu-Ray            
+It's a Wonderful Life                                                          Drama              PG                  DVD                
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb           Comedy             PG                  Blu-Ray            
+Some Like It Hot                                                               Comedy             NR                  Digital            
+Ben-Hur                                                                        Drama              G                   VHS                
+Apocalypse Now                                                                 Drama              R                   Digital            
+Amadeus                                                                        Drama              R                   Beta               
+The Lord of the Rings: The Return of the King                                  Science Fiction    PG-13               Digital            
+Gladiator                                                                      Drama              R                   DVD                
+Titanic                                                                        Romance            PG-13               DVD                
+From Here to Eternity                                                          Drama              NR                  DVD                
+Saving Private Ryan                                                            Drama              R                   VHS                
+Unforgiven                                                                     Drama              R                   DVD                
+Indiana Jones and the Raiders of the Lost Ark                                  Science Fiction    PG                  Blu-Ray            
+Rocky                                                                          Drama              PG                  Beta               
+A Streetcar Named Desire                                                       Drama              PG                  VHS                
+The Philadelphia Story                                                         Romance            NR                  DVD                
+To Kill a Mockingbird                                                          Drama              NR                  Blu-ray            
+An American in Paris                                                           Romance            NR                  Blu-Ray            
+The Best Years of Our Lives                                                    Romance            NR                  Blu-Ray            
+My Fair Lady                                                                   Drama              G                   Blu-ray            
+A Clockwork Orange                                                             Science Fiction    R                   DVD                
+Doctor Zhivago                                                                 Romance            PG-13               DVD                
+The Searchers                                                                  Drama              NR                  DVD                
+Jaws                                                                           Horror             PG                  Blu-Ray            
+Jellyfish                                                                      Documentary        PG                  DVD                
+BUILD SUCCESSFUL (total time: 4 seconds)
+
+run:
+What would you like to do: Add a video [1], Search for a video [2], Display all videos [3], Display videos of a specific genre [4], or Display videos of a specific rating [5]?  4
+
+Enter desired movie genre: Romance, Horror, Action, Science fiction, or Documentary?  Documentary
+
+Movie Name                                                                     Movie Genre        Movie Rating        Movie Format
+Jellyfish                                                                      Documentary        PG                  DVD                
+BUILD SUCCESSFUL (total time: 19 seconds)
+
+run:
+What would you like to do: Add a video [1], Search for a video [2], Display all videos [3], Display videos of a specific genre [4], or Display videos of a specific rating [5]?  5
+
+Enter desired movie rating: Not rated [NR], G, PG, PG-13, R, or NC-17?  PG
+
+Movie Name                                                                     Movie Genre        Movie Rating        Movie Format
+Casablanca                                                                     Romance            PG                  Blu-ray            
+Citizen Kane                                                                   Drama              PG                  DVD                
+The Wizard of Oz                                                               Science Fiction    PG                  DVD                
+Vertigo                                                                        Horror             PG                  VHS                
+Star Wars: Episode IV - A New Hope                                             Science Fiction    PG                  DVD                
+E.T. the Extra-Terrestrial                                                     Science Fiction    PG                  DVD                
+The Bridge on the River Kwai                                                   Drama              PG                  Blu-Ray            
+It's a Wonderful Life                                                          Drama              PG                  DVD                
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb           Comedy             PG                  Blu-Ray            
+Indiana Jones and the Raiders of the Lost Ark                                  Science Fiction    PG                  Blu-Ray            
+Rocky                                                                          Drama              PG                  Beta               
+A Streetcar Named Desire                                                       Drama              PG                  VHS                
+Jaws                                                                           Horror             PG                  Blu-Ray            
+Jellyfish                                                                      Documentary        PG                  DVD                
+BUILD SUCCESSFUL (total time: 7 seconds)
