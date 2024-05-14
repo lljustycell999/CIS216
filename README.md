@@ -1,2 +1,2 @@
-# CIS 216 - Advanced Programming
-This repository contains the programming labs completed as part of the CSC 216 - Advanced Programming course at SUNY Jefferson taught by Professor Jack Donato.
+# Java Labs
+This repository contains the completed Java programming labs as part of an advanced programming course.
